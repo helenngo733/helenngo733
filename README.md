@@ -1,4 +1,15 @@
-## Hi there 👋
+<h2 align="center">Hello, I'm Helen! 👋</h2> 
+
+I'm majoring in Computer Science with a Cybersecurity concentration. I’m in my fourth year at CSUF, graduating in Spring 2026.
+
+- 🧑‍💻 Currently working on improving my skills, personal projects, and staying motivated
+- 🌱 Exploring Cybersecurity, Software Development, and UI/UX Design
+- 👀 Looking for internships and expanding my network
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can play the flute and piano
+- 📫 How to reach me: helenngo733@gmail.com
+
+<img width="75" height="75" alt="macaroons" src="https://github.com/helenngo733/helenngo733/blob/main/macaroons.png"/>
 
 <!--
 **helenngo733/helenngo733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
