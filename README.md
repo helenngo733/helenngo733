@@ -1,7 +1,5 @@
 <h2 align="center">Hello, I'm Helen! 👋</h2> 
 
-I'm majoring in Computer Science with a Cybersecurity concentration. I’m in my fourth year at CSUF, graduating in Spring 2026.
-
 - 🧑‍💻 Currently working on improving my skills, personal projects, and staying motivated
 - 🌱 Exploring Cybersecurity, Software Development, and UI/UX Design
 - 👀 Looking for internships and expanding my network
