@@ -1,10 +1,10 @@
 <h2 align="center">Hello, I'm Helen! 👋</h2> 
 
 - 🧑‍💻 Currently working on improving my skills, personal projects, and staying motivated
-- 🌱 Exploring Cybersecurity, Software Development, and UI/UX Design
-- 👀 Looking for internships and expanding my network
+- 🌱 Exploring Cybersecurity, Information Systems, & Software Development
+- 👀 Looking for career opportunities and expanding my network
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can play the flute and piano
+- ⚡ Favorite Drink: Caramel Macchiato
 - 📫 How to reach me: helenngo733@gmail.com
 
 <img width="75" height="75" alt="macaroons" src="https://github.com/helenngo733/helenngo733/blob/main/macaroons.png"/>
