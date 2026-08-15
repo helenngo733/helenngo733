@@ -3,7 +3,7 @@
 - 🧑‍💻 Currently working on improving my skills, personal projects, and staying motivated
 - 🌱 Exploring Cybersecurity, Information Systems, & Software Development
 - 👀 Looking for career opportunities and expanding my network
-- 😄 Pronouns: she/her
+- 😄 Education: Cal Poly Pomona MSIS '28 | Cal State Fullerton BSCS '26
 - ⚡ Favorite Drink: Caramel Macchiato
 - 📫 How to reach me: helenngo733@gmail.com
 
